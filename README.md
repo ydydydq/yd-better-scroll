@@ -1,6 +1,16 @@
 # yd-better-scroll
 
-> A Vue.js project
+对better-scroll进行二次封装，解决限制区域内大量内容滚动展示、下拉刷新、上拉加载，loading图标为css3，可以自行替换。
+
+## 效果图
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show1.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show2.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show3.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show4.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show5.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show6.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show7.png)
+![image](https://github.com/ydydydq/images/blob/master/yd-better-scroll/show8.png)
 
 ## Build Setup
 
